@@ -42,6 +42,11 @@ authors:
     orcid: https://orcid.org/0000-0001-8155-8038
     website: https://github.com/kmpaul
     affiliation: NVIDIA
+  - family-names: BOYER
+    given-names: TIFFANY SUZANNE
+    orcid: https://orcid.org/00009-0006-4782-3065
+    website: https://github.com/el0quence
+    affiliation: HOWARD UNIV CENTER FOR DATA SCIENCE AND APPLIED ANALYTICS - CADSA
   - name: "Cookbook Template contributors" # use the 'name' field to acknowledge organizations
     website: "https://github.com/ProjectPythia/cookbook-template/graphs/contributors"
 title: "Cookbook Template"
