@@ -1,3 +1,4 @@
+
 cff-version: 1.2.0
 message: "If you use this cookbook, please cite it as below."
 authors:
@@ -42,6 +43,11 @@ authors:
     orcid: https://orcid.org/0000-0001-8155-8038
     website: https://github.com/kmpaul
     affiliation: NVIDIA
+    -family-names: Francis
+    given-names: Tuluri
+    orcid: https://orcid.org/0009-0003-5836-6646
+    website: https://github.com/ftuluri
+    affiliation: JACKSON STATE UNIVERSITY
   - name: "Cookbook Template contributors" # use the 'name' field to acknowledge organizations
     website: "https://github.com/ProjectPythia/cookbook-template/graphs/contributors"
 title: "Cookbook Template"
