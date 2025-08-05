@@ -1,1 +1,1 @@
-import{a}from"/ai-cookbook/build/_shared/chunk-PVORJGGQ.js";import"/ai-cookbook/build/_shared/chunk-M7DUWZ4C.js";import"/ai-cookbook/build/_shared/chunk-2NH4LW52.js";export default a();
+import{a}from"/data-science-ai-teammate-cookbook/build/_shared/chunk-PVORJGGQ.js";import"/data-science-ai-teammate-cookbook/build/_shared/chunk-M7DUWZ4C.js";import"/data-science-ai-teammate-cookbook/build/_shared/chunk-2NH4LW52.js";export default a();
