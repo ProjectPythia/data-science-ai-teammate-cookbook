@@ -42,6 +42,11 @@ authors:
     orcid: https://orcid.org/0000-0001-8155-8038
     website: https://github.com/kmpaul
     affiliation: NVIDIA
+  - family-names: Adesola
+    given-names: Temiloluwa
+    orcid: https://orcid.org/0009-0005-3635-5318 # optional
+    website: https://github.com/IamTemmy # optional
+    affiliation: Jackson State University # optional
   - family-names: BOYER
     given-names: TIFFANY SUZANNE
     orcid: https://orcid.org/00009-0006-4782-3065
