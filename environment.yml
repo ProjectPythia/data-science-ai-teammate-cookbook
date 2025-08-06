@@ -6,3 +6,4 @@ dependencies:
   - mystmd
   - jupyterlab-myst
   - jupyter-ai
+  - langchain-openai
