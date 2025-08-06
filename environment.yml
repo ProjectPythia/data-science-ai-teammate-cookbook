@@ -5,3 +5,4 @@ dependencies:
   - jupyterlab
   - mystmd
   - jupyterlab-myst
+  - jupyter-ai
