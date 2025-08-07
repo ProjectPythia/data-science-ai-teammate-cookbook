@@ -3,10 +3,10 @@ version: 1
 extends:
   - https://raw.githubusercontent.com/projectpythia/pythia-config/main/pythia.yml
 project:
-  title:  A Data Science AI Team Exploration
+  title: Project Pythia Cookbook Template
   github: https://github.com/projectpythia/cookbook-template
   authors:
-    - name:  Tiffany Boyer, Contributor; Conner, Lead; Dr. Tulirir, Contributor; and Temilouwa, Contributor
+    - name:  Tiffany Boyer - Contributor; Dr. Tulirir - Contributor; and Temilouwa - Contributor; Connor Quiroz, Lead
   copyright: '2024'
   toc:
     - file: README.md
@@ -15,10 +15,14 @@ project:
         - file: notebooks/how-to-cite.md
     - title: Introduction
       children:
-        - file: notebooks/notebook-template.ipynb
-    - title: Foundations
-      children:
         - file: notebooks/overview.ipynb
+    - title: Foundations / Methods
+      children:
+        - file: notebooks/palmer_penguins_recipe.ipynb
+        - file: notebooks/ftuluri01.ipynb
+    - title: Conclusion
+      children:
+          - file: 
   jupyter:
       binder:
-        repo: projectpythia/cookbook-template
+        repo: projectpythia/cookbook-template 
