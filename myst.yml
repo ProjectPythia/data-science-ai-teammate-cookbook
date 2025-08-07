@@ -3,10 +3,10 @@ version: 1
 extends:
   - https://raw.githubusercontent.com/projectpythia/pythia-config/main/pythia.yml
 project:
-  title: Project Pythia Cookbook Template
+  title:  A Data Science AI Team Exploration
   github: https://github.com/projectpythia/cookbook-template
   authors:
-    - name: The Project Pythia Community
+    - name:  Tiffany Boyer, Contributor; Conner, Lead; Dr. Tulirir, Contributor; and Temilouwa, Contributor
   copyright: '2024'
   toc:
     - file: README.md

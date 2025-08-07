@@ -1,4 +1,4 @@
-# (Replace_with_your_title) Cookbook
+# A Data AnalysisUsing an AI Temmate Exploration Cookbook
 
 <img src="thumbnails/thumbnail.png" alt="thumbnail" width="300"/>
 
