@@ -1,0 +1,3 @@
+using github load the palmer penguin dataset from github and display the variable names. let me create a python script that does this
+
+GIVEN these variables in the dataset, can you create 3 plots that are useful for people wanting to differentiate these species that use only certain variables say five of them. only use pandas and matplotlib
