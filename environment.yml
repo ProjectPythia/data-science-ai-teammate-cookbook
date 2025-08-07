@@ -9,3 +9,9 @@ dependencies:
   - matplotlib
   - jupyter-ai
   - langchain-openai
+  - numpy
+  - palmerpenguins
+  - scikit-learn
+  - plotly
+  - seaborn
+  - ipython
