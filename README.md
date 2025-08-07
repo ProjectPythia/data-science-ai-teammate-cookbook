@@ -85,7 +85,8 @@ jupyter lab
 
 digital literacy and data fluency empowering broader partication in the data-driven ecosystem.
 
-### Conclusion
+
+###Conclusion
 
 This project demonstrates that data science is accessible and impactful across disciplines--from research and industry to government and community initiatives. By emphasizing hands-on experience, targeted prompts, and reproducible workflows, learners navigate their learning pathways through the attainment of task-specific badges that build toward meaningful data interpetation, problem solving, and critial thinking credentials. 
 
