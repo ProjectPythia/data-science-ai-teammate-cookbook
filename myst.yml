@@ -14,7 +14,7 @@ project:
       children:
         - file: notebooks/how-to-cite.md
     - title: Introduction
-    children:
+      children:
         - file: Introduction.md
     - title: Foundations / Methods
       children:
