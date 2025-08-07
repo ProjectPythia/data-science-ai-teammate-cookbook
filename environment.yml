@@ -5,5 +5,7 @@ dependencies:
   - jupyterlab
   - mystmd
   - jupyterlab-myst
+  - pandas
+  - matplotlib
   - jupyter-ai
   - langchain-openai
