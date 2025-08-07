@@ -13,13 +13,10 @@ project:
     - title: Preamble
       children:
         - file: notebooks/how-to-cite.md
-    - title: Introduction
-      children:
-        - file: notebooks/overview.ipynb
     - title: Foundations / Methods
       children:
         - file: notebooks/Chapter 1 - data cleaning & data visualization.ipynb
-        - file: notebooks/ftuluri01.ipynb
+        - file: notebooks/Chapter 2 - Prediction & Machine Learning
     - title: Conclusion
       children:
           - file: 
