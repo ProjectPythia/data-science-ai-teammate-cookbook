@@ -25,7 +25,7 @@ By embedding microburst upskilling into daily workflows and community initiative
 Let us reimagine algorithm literacy not as a distant goal, but as a daily practice. With AI as a teammate and microburst learning as our method, we can build a geoscience future that is inclusive, transparent, and driven by the voices that matter most.
 ## Authors
 
-[Lead Author](https://github.com/quir1869), [First Author](https://github.com/El0quence), [Second Author](https://github.com/ianamtemmy), [Third Author](https://github.com/ftuluiri) 
+[Lead Author](https://github.com/quir1869), [First Author](https://github.com/El0quence), [Second Author](https://github.com/IamTemmy), [Third Author](https://github.com/ftuluiri) 
 
 ### Contributors
 
