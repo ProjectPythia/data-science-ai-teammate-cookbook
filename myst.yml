@@ -15,10 +15,14 @@ project:
         - file: notebooks/how-to-cite.md
     - title: Introduction
       children:
-        - file: notebooks/notebook-template.ipynb
-    - title: Foundations
-      children:
         - file: notebooks/overview.ipynb
+    - title: Foundations / Methods
+      children:
+        - file: 
+        - file: Chapter 1: data
+    - title: Conclusion
+      children:
+          - file: 
   jupyter:
       binder:
         repo: projectpythia/cookbook-template
