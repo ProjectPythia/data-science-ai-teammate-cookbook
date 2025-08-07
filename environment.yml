@@ -5,3 +5,8 @@ dependencies:
   - jupyterlab
   - mystmd
   - jupyterlab-myst
+  - pandas
+  - matplotlib
+  - numpy
+  - palmerpenguins
+  - scikit-learn
