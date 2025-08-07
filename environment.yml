@@ -7,6 +7,8 @@ dependencies:
   - jupyterlab-myst
   - pandas
   - matplotlib
+  - jupyter-ai
+  - langchain-openai
   - numpy
   - palmerpenguins
   - scikit-learn
