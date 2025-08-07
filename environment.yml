@@ -10,3 +10,7 @@ dependencies:
   - numpy
   - palmerpenguins
   - scikit-learn
+  - plotly
+  - seaborn
+  - ipython
+  - warnings
