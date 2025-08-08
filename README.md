@@ -1,5 +1,7 @@
 #  📘 A Simplified Data Analysis Using an AI Teammate Exploration Cookbook
 
+Tiffany Boyer - Contributor; Dr. Tulirir - Contributor; and Temilouwa - Contributor; Connor Quiroz - Lead
+
 ---
 
 ## ✍️ Authors
