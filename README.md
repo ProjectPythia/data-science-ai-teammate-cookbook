@@ -1,10 +1,10 @@
-# Title:  📘 A Simplified Data Analysis Using an AI Teammate Exploration Cookbook
+#  📘 A Simplified Data Analysis Using an AI Teammate Exploration Cookbook
 
 ---
 
 ## ✍️ Authors
 
-Connor Quiroz, [Lead Author](https://github.com/quir1869); Temmy Adesole, [First Author](https://github.com/IamTemmy); Tiffany Boyer, CMfgE - [Second Author](https://github.com/El0quence); Dr. Francis Tuluiri, PhD - [Third Author](https://github.com/ftuluiri)
+Lead Author, [Connor Quiroz](https://github.com/quir1869); Authors: [Temmy Adesole](https://github.com/IamTemmy); [Tiffany Boyer, CMfgE](https://github.com/El0quence); [Dr. Francis Tuluiri, PhD](https://github.com/ftuluiri)
 
 ### 🙌 Contributors
 
