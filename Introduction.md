@@ -1,3 +1,5 @@
+# Introduction
+
 ## 🌍 Enhancing Algorithmic Literacy Among Vulnerable Populations through Geoscience Applications
 
 Imagine a community-based geoscience project where local learners explore biodiversity through a dataset of penguin species.

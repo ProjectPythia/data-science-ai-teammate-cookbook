@@ -4,7 +4,7 @@
 
 ## ✍️ Authors
 
-Lead Author, [Connor Quiroz](https://github.com/quir1869); Authors: [Temmy Adesole](https://github.com/IamTemmy); [Tiffany Boyer, CMfgE](https://github.com/El0quence); [Dr. Francis Tuluiri, PhD](https://github.com/ftuluiri)
+Lead Author, [Connor Quiroz](https://github.com/quir1869); Authors: [Temiloluwa Adesola](https://github.com/IamTemmy); [Dr. Tuluri, CMfgE](https://github.com/El0quence); [Dr. Francis Tuluiri, PhD](https://github.com/ftuluiri)
 
 ### 🙌 Contributors
 
