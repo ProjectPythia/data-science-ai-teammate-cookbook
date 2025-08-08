@@ -5,8 +5,6 @@ extends:
 project:
   title: Project Pythia Cookbook Template
   github: https://github.com/projectpythia/cookbook-template
-  authors:
-    - name:  Tiffany Boyer - Contributor; Dr. Tulirir - Contributor; and Temilouwa - Contributor; Connor Quiroz, Lead
   copyright: '2024'
   toc:
     - file: README.md
