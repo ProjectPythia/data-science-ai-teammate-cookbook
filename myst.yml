@@ -21,8 +21,8 @@ project:
         - file: Introduction.md
     - title: Chapter 1 - Foundations / Methods
       children:
-        - file: notebooks/Chapter 1 - data cleaning & data visualization.ipynb
-        - file: notebooks/Chapter 2 - Prediction & Machine Learning.ipynb
+        - file: notebooks/Mission Assignment 1 - Data Cleaning & Data Visualization.ipynb
+        - file: notebooks/Mission Assignment 2 - Prediction & Machine Learning.ipynb
     - title: Chapter 2 (under construction 🚧)
     - title: Chapter 3 (under construction 🚧)
     - title: Conclusion
