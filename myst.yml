@@ -6,7 +6,7 @@ project:
   title: Project Pythia Cookbook Template
   github: https://github.com/projectpythia/cookbook-template
   authors:
-    - name: The Project Pythia Community
+    - name:  Tiffany Boyer - Contributor; Dr. Tulirir - Contributor; and Temilouwa - Contributor; Connor Quiroz, Lead
   copyright: '2024'
   toc:
     - file: README.md
@@ -25,4 +25,4 @@ project:
           - file: 
   jupyter:
       binder:
-        repo: projectpythia/cookbook-template
+        repo: projectpythia/cookbook-template 
