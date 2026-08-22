@@ -7,6 +7,7 @@ authors:
   # a blank orcid field is not valid.
   - family-names: Adesola
     given-names: Temiloluwa
+    orcid: https://orcid.org/0009-0005-3635-5318
     website: https://github.com/IamTemmy
     affiliation: Jackson State University
   - family-names: Boyer
@@ -15,6 +16,7 @@ authors:
   - family-names: Tuluri
     given-names: Francis
     name-suffix: PhD
+    orcid: https://orcid.org/0009-0003-5836-6646
     website: https://github.com/ftuluiri
     affiliation: Jackson State University
   - family-names: Quiroz
