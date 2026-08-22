@@ -4,7 +4,7 @@ extends:
   - https://raw.githubusercontent.com/projectpythia/pythia-config/main/pythia.yml
 project:
   title: AI-Empowered Data Science Teammate Cookbook
-  github: https://github.com/projectpythia/cookbook-template
+  github: https://github.com/ProjectPythia/data-science-ai-teammate-cookbook
   copyright: '2024'
   toc:
     - file: README.md
@@ -26,7 +26,7 @@ project:
     - title: Chapter 3 (under construction 🚧)
     - title: Conclusion
       children:
-          - file: Conclusion.md
+        - file: Conclusion.md
   jupyter:
-      binder:
-        repo: projectpythia/cookbook-template 
+    binder:
+      repo: ProjectPythia/data-science-ai-teammate-cookbook
