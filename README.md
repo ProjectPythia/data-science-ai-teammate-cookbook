@@ -1,6 +1,6 @@
 #  📘 A Simplified Data Analysis Using an AI Teammate Exploration Cookbook
 
-Tiffany Boyer - Contributor; Dr. Francis Tuluri - Contributor; and Temilouwa - Contributor; Connor Quiroz - Lead
+Tiffany Boyer - Contributor; Dr. Francis Tuluri - Contributor; and Temiloluwa - Contributor; Connor Quiroz - Lead
 
 ---
 
@@ -20,12 +20,7 @@ James Munroe for providing input on project ideation and providing next step gui
   <img src="https://contrib.rocks/image?repo=ProjectPythia/data-science-ai-teammate-cookbook" />
 </a>
 
-<img src="thumbnails/thumbnail.png" alt="🐧 Thumbnail" width="300">
-
-[![🔄 Nightly Build](https://github.com/ProjectPythia/cookbook-template/actions/workflows/nightly-build.yaml/badge.svg)](https://github.com/ProjectPythia/cookbook-template/actions/workflows/nightly-build.yaml)
-[![🚀 Launch Binder](https://binder.projectpythia.org/badge_logo.svg)](https://binder.projectpythia.org/v2/gh/ProjectPythia/cookbook-template/main?labpath=notebooks)
-[![📌 DOI](https://zenodo.org/badge/475509405.svg)](https://zenodo.org/badge/latestdoi/475509405)
+[![🔄 Nightly Build](https://github.com/ProjectPythia/data-science-ai-teammate-cookbook/actions/workflows/nightly-build.yaml/badge.svg)](https://github.com/ProjectPythia/data-science-ai-teammate-cookbook/actions/workflows/nightly-build.yaml)
+[![🚀 Launch Binder](https://binder.projectpythia.org/badge_logo.svg)](https://binder.projectpythia.org/v2/gh/ProjectPythia/data-science-ai-teammate-cookbook/main?labpath=notebooks)
 
 ---
-
-

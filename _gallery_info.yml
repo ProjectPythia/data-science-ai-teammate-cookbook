@@ -1,6 +1,12 @@
-thumbnail: thumbnail.png
 tags:
   domains:
-    - sampledomain
+    - education
+    - machine-learning
   packages:
-    - samplepackage
+    - pandas
+    - matplotlib
+    - seaborn
+    - plotly
+    - scikit-learn
+    - palmerpenguins
+    - jupyter-ai
